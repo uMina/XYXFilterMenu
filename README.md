@@ -2,6 +2,7 @@
 一个超流畅的菜单筛选项，支持tableView和collectionView以及自定义输入范围模式，可以根据你的需要设定显示方式。
 
 An amazing filter menu with smooth animations, supports tableView/collectionView mode, and can mix user-define inputView in the way you want.
+![XYXFilterMenu](http://img.blog.csdn.net/20161230173730682?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYTE0ODQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ###**🔧使用：**
 **初始化**
