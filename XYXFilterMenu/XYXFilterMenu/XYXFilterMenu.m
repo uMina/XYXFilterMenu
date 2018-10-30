@@ -424,7 +424,7 @@
     
     CAKeyframeAnimation *animate = [CAKeyframeAnimation animationWithKeyPath:@"transform.rotation"];
     animate.values = unfold ? @[ @0, @(M_PI) ] : @[ @(M_PI), @0 ];
-    
+
     if (!animate.removedOnCompletion) {
         [indicator addAnimation:animate forKey:animate.keyPath];
     } else {
